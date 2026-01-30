@@ -25,4 +25,3 @@ A deep-dive analysis into how Distributed Ledger Technology (DLT) is disrupting 
 
 # Author
 **Mohd Nizam Mohd Nasir Shaikh**
-MSc in FinTech, National College of Ireland
